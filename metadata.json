@@ -1,0 +1,7 @@
+{
+  "name": "Penny - Financial Friend",
+  "description": "A conversational, judgment-free financial planner helping you find balance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
